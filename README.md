@@ -2,9 +2,9 @@
  
 -&#128113; Estudiante: Juan mattia
 
-&#10022; Edad: 18
+&#10022; Edad: 19
 
-&#10022; Istagram: Juan_mttia
+&#10022; Istagram:
 
 &#10022; Correo electronico: Juanmattia56@gmail.com
 
